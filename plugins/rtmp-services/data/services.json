@@ -1089,10 +1089,6 @@
                     "url": "rtmp://ingest.wpstream.net/golive"
                 },
                 {
-                    "name": "North America",
-                    "url": "rtmp://ingest-na.wpstream.net/golive"
-                },
-                {
                     "name": "Europe",
                     "url": "rtmp://ingest-eu.wpstream.net/golive"
                 },
@@ -1817,10 +1813,6 @@
                 {
                     "name": "Toronto 1",
                     "url": "rtmp://tor-ingest.angelthump.com:1935/live"
-                },
-                {
-                    "name": "Bangalore 1",
-                    "url": "rtmp://blr-ingest.angelthump.com:1935/live"
                 },
                 {
                     "name": "Amsterdam 3",
